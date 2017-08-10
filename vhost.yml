@@ -1,0 +1,9 @@
+---
+user_name: myuser
+server_admin: info@sample.jp
+document_root: /home/myuser/public_html/sample_app/public
+server_name: sample_app.jp
+inventory_hostname: sample_app.jp
+log_dir: sample_app.jp
+# 以下はUserDirを使う場合のみ下記を設定する
+user_dir: public_html
